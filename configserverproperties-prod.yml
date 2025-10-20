@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ConfigServer
+build:
+  name: configserver
+  id: 4
+  type: prod
+  
