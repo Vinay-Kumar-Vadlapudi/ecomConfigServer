@@ -2,7 +2,7 @@ spring:
   application:
     name: ConfigServer
 build:
-  name: configserver
   id: 1
+  name: configserver
   type: default
   
