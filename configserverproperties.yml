@@ -3,5 +3,6 @@ spring:
     name: ConfigServer
 build:
   name: configserver
-  id: 123456789
+  id: 1
+  type: default
   
