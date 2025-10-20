@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: ConfigServer
-
 build:
   name: configserver
   id: 123456789
